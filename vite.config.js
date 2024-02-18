@@ -5,9 +5,6 @@ import prismjs from "vite-plugin-prismjs";
 // https://vitejs.dev/config/
 export default defineConfig({
   base: "/morsepiippari/",
-  build: {
-    outDir: "./docs",
-  },
   plugins: [
     react(),
     prismjs({

@@ -35,7 +35,7 @@ function App() {
           <h3>Koodi</h3>
           <pre
             style={{ height: "500px" }}
-            data-src="morsepiippari/morse.ino"
+            data-src="/morse.ino"
             className="line-numbers"
           ></pre>
           <br />
