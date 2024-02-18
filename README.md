@@ -1,1 +1,1 @@
-Tein simppelin arduino projektin ja dokumentoin sen nettisivun muotoon.
+Koitin dokumentoida arduino projektia nettisivun muodossa.
