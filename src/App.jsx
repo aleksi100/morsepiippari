@@ -48,7 +48,7 @@ function App() {
             <code>continue;</code> komennolla.
           </p>
           <pre
-            data-src="/morse.ino"
+            data-src="/morsepiippari/morse.ino"
             className="line-numbers"
             data-range="23,38"
           ></pre>
@@ -60,7 +60,7 @@ function App() {
             kutakin kirjainta vastaavan morsekoodin.
           </p>
           <pre
-            data-src="/morse.ino"
+            data-src="/morsepiippari/morse.ino"
             className="line-numbers"
             data-range="74,77"
           ></pre>
