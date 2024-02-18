@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import Prism from "prismjs";
+import koodi from "/morse.ino";
 
 function App() {
   useEffect(() => {
@@ -35,7 +36,7 @@ function App() {
           <h3>Koodi</h3>
           <pre
             style={{ height: "500px" }}
-            data-src="/morse.ino"
+            data-src={koodi}
             className="line-numbers"
           ></pre>
           <br />
