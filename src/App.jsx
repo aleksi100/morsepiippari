@@ -8,10 +8,7 @@ function App() {
   return (
     <>
       <div style={{ display: "flex", justifyContent: "center" }}>
-        <div
-          style={{ margin: "4rem", width: "100%", maxWidth: "900px" }}
-          className="lang-ino"
-        >
+        <div style={{ margin: "4rem", width: "100%" }} className="lang-ino">
           <h3>Tässä projektissa tehdään morsepiippari</h3>
           <p>
             <a
@@ -38,7 +35,7 @@ function App() {
           <h3>Koodi</h3>
           <pre
             style={{ height: "500px" }}
-            data-src="/morse.ino"
+            data-src="morsepiippari/morse.ino"
             className="line-numbers"
           ></pre>
           <br />
